@@ -1,4 +1,4 @@
-Test 16/01/2013
+Test bis 16/01/2013
 
 Welcome to the Git training session!
 
