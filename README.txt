@@ -1,6 +1,6 @@
 Test bis 16/09/2013
 
-Welcome to the Git training session at Dev@LR on the 28 of March!
+Welcome to the Git training session at CREATIS on the 24th of April!
 
 
 You will find all the useful information on the wiki:
