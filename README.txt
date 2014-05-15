@@ -1,6 +1,6 @@
 Test bis 16/09/2013
 
-Welcome to the Git training session at CREATIS on the 24th of April 2014!
+Welcome to the Git training session at CREATIS on the June 5th 2014!
 
 
 You will find all the useful information on the wiki:
